@@ -13,7 +13,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 os.system('termux-setup-storage')
 os.system('clear')
-logo = '\n\n\x1b[1;95m\n MR-REHAN MAQSOOD \n THE OFFICIAL CMD  \n FOLLOW REHAN ON FB \x1b[1;95m             ONFIRE V2.0"\x1b[1;92m\n SPEEDUP UPDATE  \n\x1b[1;97-------------------ONFIRE V2.0-------------------m\n   Author   : Rehan Maqsood\n \n-------------------ONFIRE V2.0-------------------\n             \x1b[1;92mLOADING ONFIRE MOD\n\x1b[1;97m------------------------------------------------\nHACKING IS NOT A CRIME \n------------------------------------------------ '
+logo = '\n\n\x1b[1;95m\n MR-REHAN MAQSOOD \n THE OFFICIAL CMD  \n FOLLOW REHAN ON FB \x1b[1;95m  ONFIRE V2.0"\x1b[1;92m\n SPEEDUP UPDATE  \n\x1b[1;97-------------------ONFIRE V2.0-------------------m\n   Author   : Rehan Maqsood\n \n-------------------ONFIRE V2.0-------------------\n             \x1b[1;92mLOADING ONFIRE MOD\n\x1b[1;97m------------------------------------------------\nHACKING IS NOT A CRIME \n------------------------------------------------ '
 CorrectUsername = 'Rehan'
 loop = 'true'
 while loop == 'true':
